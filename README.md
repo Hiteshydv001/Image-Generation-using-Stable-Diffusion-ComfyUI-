@@ -26,8 +26,35 @@ This project explores the power of AI-driven image generation using **Stable Dif
 
 ![image](https://github.com/user-attachments/assets/50207c8d-ef4c-4ba2-985e-05b6935bf590)
 
+## Workflow of Image to Image generation
 
+![image](https://github.com/user-attachments/assets/536f964c-8f69-42f9-b585-278e7df69a38)
 
+---
+
+![image](https://github.com/user-attachments/assets/bdd8a386-19fc-42f7-a933-285327611d6b)
+
+## Workflow of Text to Image
+
+![image](https://github.com/user-attachments/assets/71b64d29-adda-4d23-8331-0e3bd15a448a)
+
+## Sample of Generated Images
+
+![image](https://github.com/user-attachments/assets/0e1eb358-d0a6-4cc3-a2c3-d5f7a5a3536d)
+
+---
+
+![image](https://github.com/user-attachments/assets/e6e89450-b964-4b67-a8e5-5f6c3c5fafe5)
+
+---
+
+![image](https://github.com/user-attachments/assets/3d6119a2-abc8-482c-bf7f-42d6c92b94d5)
+
+---
+
+![image](https://github.com/user-attachments/assets/db5e1409-ada8-4648-a14d-189023be3182)
+
+---
 ## **Table of Contents**
 1. Introduction
 2. Project Objectives
