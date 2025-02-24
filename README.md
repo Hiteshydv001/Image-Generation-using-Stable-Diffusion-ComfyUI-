@@ -81,6 +81,9 @@ The project follows a modular pipeline approach:
 - **Post-processing** - Refinements such as upscaling and enhancements.
 - **Output Display** - The final image is displayed in the Gradio UI.
 
+  ![image](https://github.com/user-attachments/assets/5b505232-c6a7-498c-bc2e-9cff1a10edb7)
+
+
 ---
 
 ## **5. Implementation**
