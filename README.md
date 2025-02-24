@@ -158,11 +158,6 @@ demo.launch()
 
 The system successfully generates high-quality images with rich details based on textual inputs. The ComfyUI workflow allows greater flexibility and fine-tuning, making it a robust solution for AI-generated art and photography.
 
-| **Prompt** | **Generated Image** |
-|------------|--------------------|
-| "Cyberpunk city at night, neon lights" | ![Sample1](generated_image1.png) |
-| "A futuristic AI robot in a sci-fi universe" | ![Sample2](generated_image2.png) |
-
 ---
 
 ## **7. Challenges Faced**
