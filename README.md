@@ -22,6 +22,11 @@ Portfolio: [Hitesh Kumar](https://hiteshydv001.github.io/Hiteshydv001/)
 This project explores the power of AI-driven image generation using **Stable Diffusion** and **ComfyUI**. The objective is to generate high-quality, photorealistic, and artistic images based on textual prompts using a deep-learning pipeline. The project utilizes **ComfyUI**, an advanced workflow-based user interface for Stable Diffusion, to generate and refine images. This report discusses the implementation details, workflow structure, dataset preparation, and the automation pipeline used in the project.
 
 ---
+## **Demo Images**
+
+![image](https://github.com/user-attachments/assets/50207c8d-ef4c-4ba2-985e-05b6935bf590)
+
+
 
 ## **Table of Contents**
 1. Introduction
